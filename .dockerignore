@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.git/
+.pytest_cache/
+.coverage
+.env
+*.env
+Screenshots/
+README.md
+test_model.py
