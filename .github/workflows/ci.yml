@@ -40,4 +40,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ghcr.io/spartanman102/lab_06/ml-iris-api:latest
+          tags: ghcr.io/${{ github.repository }}/ml-iris-api:latest
